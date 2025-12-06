@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Yozora",
+  "base_artist": "Sugar Goose",
+  "createdAt": "2025-12-06T13:44:19.383038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yozora No Amaoto",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_Yozora_No_Amaoto_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yozora no Earring",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/02_Yozora_no_Earring_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asu no Yozora Shoukaihan",
+      "artist": "~Sh~",
+      "has_synced": false,
+      "path": "select/03_Asu_no_Yozora_Shoukaihan_~Sh~.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yozora Kirei",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/04_Yozora_Kirei_aiko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "yozora no earring",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/05_yozora_no_earring_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Asu No Yozora Shoukaihan",
+      "artist": "Dazbee",
+      "has_synced": true,
+      "path": "select/06_Asu_No_Yozora_Shoukaihan_Dazbee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yozora",
+      "artist": "Minori Suzuki",
+      "has_synced": true,
+      "path": "select/07_Yozora_Minori_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yozora",
+      "artist": "miwa feat. Hazzie",
+      "has_synced": true,
+      "path": "select/08_Yozora_miwa_feat._Hazzie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yozora。feat. Hazzie",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/09_Yozora。feat._Hazzie_miwa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班 - Asu no Yozora Shoukaihan",
+      "artist": "Yuaru",
+      "has_synced": true,
+      "path": "select/10_アスノヨゾラ哨戒班_-_Asu_no_Yozora_Shoukaihan_Yuaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KUMORI YOZORA",
+      "artist": "Akeboshi",
+      "has_synced": true,
+      "path": "select/11_KUMORI_YOZORA_Akeboshi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yozora No Crayon",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/12_Yozora_No_Crayon_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yozora no BGM",
+      "artist": "Dirty Old Men",
+      "has_synced": false,
+      "path": "select/13_Yozora_no_BGM_Dirty_Old_Men.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yozora",
+      "artist": "Sugar Goose",
+      "has_synced": true,
+      "path": "select/14_Yozora_Sugar_Goose.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kumori Yozora wa Ame no Yohou",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/15_Kumori_Yozora_wa_Ame_no_Yohou_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Asu No Yozora Shoukaihan",
+      "artist": "Nameless",
+      "has_synced": true,
+      "path": "select/16_Asu_No_Yozora_Shoukaihan_Nameless.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夜空に舞い踊る Yozora Dance",
+      "artist": "miraie",
+      "has_synced": true,
+      "path": "select/17_夜空に舞い踊る_Yozora_Dance_miraie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yozora",
+      "artist": "Sugar Goose",
+      "has_synced": false,
+      "path": "select/pl_01_Yozora_Sugar_Goose.txt"
+    }
+  ]
+}
